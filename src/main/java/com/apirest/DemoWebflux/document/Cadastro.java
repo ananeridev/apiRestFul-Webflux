@@ -1,5 +1,6 @@
 package com.apirest.DemoWebflux.document;
 
+import org.reactivestreams.Publisher;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
